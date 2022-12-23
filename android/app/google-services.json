@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3611452769",
+    "project_id": "fluter-login-auth",
+    "storage_bucket": "fluter-login-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3611452769:android:663bcd3ca676dbbda25120",
+        "android_client_info": {
+          "package_name": "app.certus.registro_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3611452769-8vkdaucfhuehc3htq6td78cii3k9biuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXIs_kEcz-rQ1DBvd_55P4wcQarfQr5po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3611452769-8vkdaucfhuehc3htq6td78cii3k9biuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
